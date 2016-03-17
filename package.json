@@ -1,0 +1,25 @@
+{
+  "name": "labs-gulp-help",
+  "license": "MIT",
+  "version": "0.0.1",
+  "author": "konstantin.denerz@gmail.com",
+  "scripts": {
+    "build": "gulp"
+  },
+  "devDependencies": {
+    "cli-table2": "^0.2.0",
+    "gulp": "^3.9.1",
+    "require-dir": "^0.3.0"
+  },
+  "engines": {
+    "node": ">=5.5.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/konstantindenerz/labs-gulp-help.git"
+  },
+  "bugs": {
+    "url": "https://github.com/konstantindenerz/labs-gulp-help/issues"
+  },
+  "homepage": "https://github.com/konstantindenerz/labs-gulp-help#readme",
+}
